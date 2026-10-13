@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Community Events</string>
+    <string name="Community_Events">Community Events</string>
+    <string name="Save">Save to Databsase</string>
+    <string name="Cancel">Cancel</string>
+    <string name="View_Events">View Events</string>
+    <string name= "Event_Details">Event Details</string>
+    <string name="Event_Name">Event Name</string>
+
+</resources>
